@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Jhandaser
 
-<!--
-**boscine/boscine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer and student at Liceo de Cagayan University, passionate about building web applications and solving problems through code.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in modern web development with a focus on creating scalable and user-friendly applications. I'm driven by curiosity and enjoy working on projects that combine backend architecture with polished frontend experiences.
+
+## Tech Stack & Tools
+
+**Frontend:** Angular 18, TypeScript
+
+**Backend:** Node.js, Hono, Prisma
+
+**DevOps & Deployment:** Git, Netlify
+
+**CLI Tools:** Antigravity CLI
+
+## Current Projects
+
+**Liceo Resource Hub** - Currently developing a comprehensive resource platform for Liceo de Cagayan University to streamline access to educational materials and information.
+
+## Featured Work
+
+**CoFollow** - Co-founder of a collaborative project focused on social connectivity and community engagement.
+
+**DefendYourVillage** - A game project showcasing game development skills.
+- [Play the game](https://defendyourvillage.netlify.app)
+- [View the image album](https://imgur.com/a/8pbIJab)
+
+## Let's Connect
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss web development projects.
