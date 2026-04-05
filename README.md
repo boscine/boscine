@@ -1,37 +1,49 @@
-# Hi, I'm Jhandaser
+<p align="center">
+  <img src="https://raw.githubusercontent.com/boscine/boscine/main/media/445c15e4-37e8-4bb5-8a0e-70f6f9ed70b2.gif" alt="Banner" width="100%">
+</p>
 
-I'm a full-stack developer and student at Liceo de Cagayan University, passionate about building web applications and solving problems through code.
+<h1 align="center">Hi, I'm Jhandaser</h1>
+<h3 align="center">Full-Stack Developer | Student at Liceo de Cagayan University</h3>
 
-## About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jhandaser&label=Profile%20views&color=0e75b6&style=flat" alt="Jhandaser" /> </p>
 
-I specialize in modern web development with a focus on creating scalable and user-friendly applications. I'm driven by curiosity and enjoy working on projects that combine backend architecture with polished frontend experiences.
+- Currently developing the **Liceo Resource Hub**
+- Co-founder of **CoFollow**
+- Creator of **DefendYourVillage** game
+- Passionate about building scalable web applications
 
-## Tech Stack & Tools
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/> 
+  </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> 
+  </a>
+</p>
 
-**Frontend:** Angular 18, TypeScript
-
-**Backend:** Node.js, Hono, Prisma
-
-**DevOps & Deployment:** Git, Netlify
-
-**CLI Tools:** Antigravity CLI
-
-## Current Projects
-
-**Liceo Resource Hub** - Currently developing a comprehensive resource platform for Liceo de Cagayan University to streamline access to educational materials and information.
-
-## Featured Work
-
-**CoFollow** - Co-founder of a collaborative project focused on social connectivity and community engagement.
+## Featured Projects
 
 **DefendYourVillage** - A game project showcasing game development skills.
 - [Play the game](https://defendyourvillage.netlify.app)
-- [View the full gallery](https://imgur.com/a/8pbIJab)
+
 
 <div align="center">
-  <img src="https://i.imgur.com/8pbIJab.png" alt="DefendYourVillage" width="400">
+  <img src="media/445c15e4-37e8-4bb5-8a0e-70f6f9ed70b2.gif" alt="DefendYourVillage" width="500">
 </div>
 
-## Let's Connect
+**Liceo Resource Hub** - A comprehensive resource platform for Liceo de Cagayan University.
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss web development projects.
+**CoFollow** - Co-founder of a collaborative project focused on social connectivity and community engagement.
