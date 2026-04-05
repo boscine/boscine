@@ -75,4 +75,8 @@
 > Collaborative platform focusing on community growth.
 - 🤝 Role: `Co-founder` 
 
+<div align="center">
+  <img src="media/cofollow.png" alt="CoFollow Preview" width="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</div>
+
 ---
