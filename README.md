@@ -26,7 +26,8 @@ I specialize in modern web development with a focus on creating scalable and use
 
 **DefendYourVillage** - A game project showcasing game development skills.
 - [Play the game](https://defendyourvillage.netlify.app)
-- [View the image album](https://imgur.com/a/8pbIJab)
+
+[![DefendYourVillage Gallery](https://imgur.com/8pbIJab.png)](https://imgur.com/a/8pbIJab)
 
 ## Let's Connect
 
