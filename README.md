@@ -4,7 +4,7 @@
 <br/>
 
 # 👋 Hello, Name's Boscine
-### | Innovator | Student 
+### Innovator | Student 
 
 <img src="https://komarev.com/ghpvc/?username=boscine&label=Profile%20views&color=6a1b9a&style=for-the-badge" alt="Profile Views" />
 
