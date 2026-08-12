@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180">
+  <style>
+    .bg { fill: #0d1117; rx: 8px; stroke: #30363d; stroke-width: 1px; }
+    .title { font-family: monospace; font-size: 14px; fill: #58a6ff; font-weight: bold; }
+    .label { font-family: monospace; font-size: 12px; fill: #8b949e; }
+    .val { font-family: monospace; font-size: 14px; fill: #c9d1d9; font-weight: bold; }
+  </style>
+  <rect width="420" height="180" class="bg"/>
+  <text x="20" y="35" class="title">KEY METRICS &amp; ACTIVITY</text>
+  <line x1="20" y1="45" x2="400" y2="45" stroke="#30363d" stroke-width="1"/>
+  
+  <text x="20" y="75" class="label">Total Contributions:</text>
+  <text x="220" y="75" class="val">523</text>
+
+  <text x="20" y="100" class="label">Commits:</text>
+  <text x="220" y="100" class="val">412</text>
+
+  <text x="20" y="125" class="label">Pull Requests / Reviews:</text>
+  <text x="220" y="125" class="val">64 / 19</text>
+
+  <text x="20" y="150" class="label">Issues Logged:</text>
+  <text x="220" y="150" class="val">28</text>
+</svg>

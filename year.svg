@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="150" viewBox="0 0 640 150">
+  <style>
+    .bg { fill: #0d1117; rx: 8px; stroke: #30363d; stroke-width: 1px; }
+    .title { font-family: monospace; font-size: 14px; fill: #58a6ff; font-weight: bold; }
+    .ascii-grid { font-family: monospace; font-size: 11px; fill: #3fb950; xml:space: preserve; white-space: pre; }
+  </style>
+  <rect width="640" height="150" class="bg"/>
+  <text x="20" y="30" class="title">YEAR ACTIVITY MATRIX (ASCII GRID)</text>
+  <line x1="20" y1="40" x2="620" y2="40" stroke="#30363d" stroke-width="1"/>
+  <text x="20" y="60" class="ascii-grid">&#160;`-+s%&#160;:=*s@.:+c#&#160;`-+s%&#160;:=*s@.:+c#&#160;`-+s%&#160;:=*s@.:+c#&#160;`</text>
+  <text x="20" y="72" class="ascii-grid">:+c#&#160;`-+s%&#160;:=*s@.:+c#&#160;`-+s%&#160;:=*s@.:+c#&#160;`-+s%&#160;:=*s@.:+</text>
+  <text x="20" y="84" class="ascii-grid">*s@.:+c#&#160;`-+s%&#160;:=*s@.:+c#&#160;`-+s%&#160;:=*s@.:+c#&#160;`-+s%&#160;:=*s</text>
+  <text x="20" y="96" class="ascii-grid">%&#160;:=*s@.:+c#&#160;`-+s%&#160;:=*s@.:+c#&#160;`-+s%&#160;:=*s@.:+c#&#160;`-+s%&#160;</text>
+  <text x="20" y="108" class="ascii-grid">`-+s%&#160;:=*s@.:+c#&#160;`-+s%&#160;:=*s@.:+c#&#160;`-+s%&#160;:=*s@.:+c#&#160;`-</text>
+  <text x="20" y="120" class="ascii-grid">+c#&#160;`-+s%&#160;:=*s@.:+c#&#160;`-+s%&#160;:=*s@.:+c#&#160;`-+s%&#160;:=*s@.:+c</text>
+  <text x="20" y="132" class="ascii-grid">s@.:+c#&#160;`-+s%&#160;:=*s@.:+c#&#160;`-+s%&#160;:=*s@.:+c#&#160;`-+s%&#160;:=*s@</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="140" viewBox="0 0 420 140">
+  <style>
+    .bg { fill: #0d1117; rx: 8px; stroke: #30363d; stroke-width: 1px; }
+    .title { font-family: monospace; font-size: 14px; fill: #58a6ff; font-weight: bold; }
+    .label { font-family: monospace; font-size: 12px; fill: #8b949e; }
+    .val { font-family: monospace; font-size: 20px; fill: #3fb950; font-weight: bold; }
+  </style>
+  <rect width="420" height="140" class="bg"/>
+  <text x="20" y="35" class="title">COMMIT STREAKS</text>
+  <line x1="20" y1="45" x2="400" y2="45" stroke="#30363d" stroke-width="1"/>
+  
+  <text x="30" y="75" class="label">Current Streak</text>
+  <text x="30" y="105" class="val">13 days</text>
+
+  <text x="230" y="75" class="label">Longest Streak</text>
+  <text x="230" y="105" class="val">28 days</text>
+</svg>
