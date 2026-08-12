@@ -1,7 +1,5 @@
 <blockquote>
-<b>System Operator &amp; Software Architect</b><br>
-Specializing in high-performance distributed systems, self-hosted tools,<br>
-and terminal-first software design.
+<b>Student &amp; Innovator</b><br>
 </blockquote>
 
 <br>
