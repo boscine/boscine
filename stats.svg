@@ -10,14 +10,14 @@
   <line x1="20" y1="45" x2="400" y2="45" stroke="#30363d" stroke-width="1"/>
   
   <text x="20" y="75" class="label">Total Contributions:</text>
-  <text x="220" y="75" class="val">523</text>
+  <text x="220" y="75" class="val">94</text>
 
   <text x="20" y="100" class="label">Commits:</text>
-  <text x="220" y="100" class="val">412</text>
+  <text x="220" y="100" class="val">82</text>
 
   <text x="20" y="125" class="label">Pull Requests / Reviews:</text>
-  <text x="220" y="125" class="val">64 / 19</text>
+  <text x="220" y="125" class="val">1 / 0</text>
 
   <text x="20" y="150" class="label">Issues Logged:</text>
-  <text x="220" y="150" class="val">28</text>
+  <text x="220" y="150" class="val">0</text>
 </svg>
