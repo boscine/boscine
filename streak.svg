@@ -10,7 +10,7 @@
   <line x1="20" y1="45" x2="400" y2="45" stroke="#30363d" stroke-width="1"/>
   
   <text x="30" y="75" class="label">Current Streak</text>
-  <text x="30" y="105" class="val">3 days</text>
+  <text x="30" y="105" class="val">4 days</text>
 
   <text x="230" y="75" class="label">Longest Streak</text>
   <text x="230" y="105" class="val">4 days</text>
