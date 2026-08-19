@@ -11,7 +11,7 @@
   <circle cx="30" cy="66" r="5" fill="#3178c6"/>
   <text x="45" y="70" class="label">TypeScript</text>
   <rect x="150" y="58" width="109" height="10" fill="#3178c6" rx="3"/>
-  <text x="269" y="70" class="pct">49.7%</text>
+  <text x="269" y="70" class="pct">49.8%</text>
   <circle cx="30" cy="88" r="5" fill="#e34c26"/>
   <text x="45" y="92" class="label">HTML</text>
   <rect x="150" y="80" width="55" height="10" fill="#e34c26" rx="3"/>
