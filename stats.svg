@@ -10,7 +10,7 @@
   <line x1="20" y1="45" x2="400" y2="45" stroke="#30363d" stroke-width="1"/>
   
   <text x="20" y="75" class="label">Total Contributions:</text>
-  <text x="220" y="75" class="val">99</text>
+  <text x="220" y="75" class="val">100</text>
 
   <text x="20" y="100" class="label">Commits:</text>
   <text x="220" y="100" class="val">86</text>
