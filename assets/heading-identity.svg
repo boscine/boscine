@@ -2,6 +2,6 @@
   <style>
     .label { font-family: monospace; font-size: 16px; font-weight: bold; fill: #58a6ff; }
   </style>
-  <text x="0" y="20" class="label"># // terminal_identity</text>
+  <text x="0" y="20" class="label">
   <line x1="220" y1="16" x2="600" y2="16" stroke="#30363d" stroke-width="1"/>
 </svg>
