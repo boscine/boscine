@@ -11,21 +11,21 @@
   <circle cx="30" cy="66" r="5" fill="#3178c6"/>
   <text x="45" y="70" class="label">TypeScript</text>
   <rect x="150" y="58" width="103" height="10" fill="#3178c6" rx="3"/>
-  <text x="263" y="70" class="pct">47.1%</text>
+  <text x="263" y="70" class="pct">47.0%</text>
   <circle cx="30" cy="88" r="5" fill="#e34c26"/>
   <text x="45" y="92" class="label">HTML</text>
   <rect x="150" y="80" width="52" height="10" fill="#e34c26" rx="3"/>
-  <text x="212" y="92" class="pct">23.9%</text>
+  <text x="212" y="92" class="pct">23.8%</text>
   <circle cx="30" cy="110" r="5" fill="#f1e05a"/>
   <text x="45" y="114" class="label">JavaScript</text>
   <rect x="150" y="102" width="24" height="10" fill="#f1e05a" rx="3"/>
-  <text x="184" y="114" class="pct">11.3%</text>
+  <text x="184" y="114" class="pct">11.2%</text>
   <circle cx="30" cy="132" r="5" fill="#663399"/>
   <text x="45" y="136" class="label">CSS</text>
-  <rect x="150" y="124" width="14" height="10" fill="#663399" rx="3"/>
-  <text x="174" y="136" class="pct">6.6%</text>
+  <rect x="150" y="124" width="15" height="10" fill="#663399" rx="3"/>
+  <text x="175" y="136" class="pct">6.9%</text>
   <circle cx="30" cy="154" r="5" fill="#c6538c"/>
   <text x="45" y="158" class="label">SCSS</text>
-  <rect x="150" y="146" width="11" height="10" fill="#c6538c" rx="3"/>
-  <text x="171" y="158" class="pct">5.0%</text>
+  <rect x="150" y="146" width="10" height="10" fill="#c6538c" rx="3"/>
+  <text x="170" y="158" class="pct">5.0%</text>
 </svg>
