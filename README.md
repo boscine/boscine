@@ -26,16 +26,3 @@
 <p align="center">
   <img src="langs.svg" alt="Top Languages" width="420">
 </p>
-
-<p align="center">
-  <img src="year.svg" alt="Year Activity Matrix" width="640">
-</p>
-
-
-<br>
-
-<hr>
-
-<p align="center">
-  <samp>STATUS: OPERATIONAL</samp> | <samp>LOCATION: UTC</samp> | <samp>SELF-HOSTED READOUT</samp>
-</p>
