@@ -1,5 +1,5 @@
 <p align="center">
-  < width="600">
+ 
 </p>
 
 <br>
