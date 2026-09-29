@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/heading-identity.svg" alt="// terminal_identity" width="600">
+  <img src="assets/heading-identity.svg" width="600">
 </p>
 
 <br>
@@ -14,7 +14,7 @@
 ### 📊 Metrics
 
 <p align="center">
-  <img src="assets/heading-analytics.svg" alt="// system_analytics" width="600">
+  <img src="assets/heading-analytics.svg" width="600">
 </p>
 
 <p align="center">
