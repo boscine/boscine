@@ -1,5 +1,5 @@
 <p align="center">
- 
+  <img src="assets/boscine-art.svg" alt="Portrait and dragon" width="640">
 </p>
 
 <br>
