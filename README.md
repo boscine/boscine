@@ -4,9 +4,7 @@
 
 <br>
 
-<p align="center">
-  <img src="portrait.svg" width="360">
-</p>
+
 
 <br>
 
