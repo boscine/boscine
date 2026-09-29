@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="876" height="780"
+     viewBox="0 0 876 780" role="img" aria-labelledby="t d"
+     font-family="Consolas, 'DejaVu Sans Mono', 'Liberation Mono', Menlo, 'Courier New', monospace"
+     font-size="20" xml:space="preserve">
+  <title id="t">Portrait and dragon</title>
+  <desc id="d">A 7-row pixel-art portrait above a 25-line ASCII dragon.</desc>
+  <style>
+    .full  { fill: #1f2328; }
+    .shade { fill: #8b949e; }
+    .ink   { fill: #1f2328; }
+    @media (prefers-color-scheme: dark) {
+      .full  { fill: #e6edf3; }
+      .shade { fill: #6e7681; }
+      .ink   { fill: #e6edf3; }
+    }
+  </style>
+  <g shape-rendering="crispEdges">
+    <rect class="shade" x="24" y="24" width="12" height="12"/>
+    <rect class="full" x="36" y="24" width="96" height="12"/>
+    <rect class="shade" x="564" y="24" width="12" height="12"/>
+    <rect class="full" x="576" y="24" width="24" height="12"/>
+    <rect class="shade" x="24" y="36" width="12" height="12"/>
+    <rect class="full" x="36" y="36" width="24" height="12"/>
+    <rect class="shade" x="108" y="36" width="12" height="12"/>
+    <rect class="full" x="120" y="36" width="24" height="12"/>
+    <rect class="shade" x="24" y="48" width="12" height="12"/>
+    <rect class="full" x="36" y="48" width="24" height="12"/>
+    <rect class="shade" x="108" y="48" width="12" height="12"/>
+    <rect class="full" x="120" y="48" width="24" height="12"/>
+    <rect class="shade" x="180" y="48" width="12" height="12"/>
+    <rect class="full" x="192" y="48" width="84" height="12"/>
+    <rect class="shade" x="312" y="48" width="12" height="12"/>
+    <rect class="full" x="324" y="48" width="84" height="12"/>
+    <rect class="shade" x="444" y="48" width="12" height="12"/>
+    <rect class="full" x="456" y="48" width="84" height="12"/>
+    <rect class="shade" x="564" y="48" width="12" height="12"/>
+    <rect class="full" x="576" y="48" width="24" height="12"/>
+    <rect class="shade" x="600" y="48" width="12" height="12"/>
+    <rect class="full" x="612" y="48" width="96" height="12"/>
+    <rect class="shade" x="744" y="48" width="12" height="12"/>
+    <rect class="full" x="756" y="48" width="84" height="12"/>
+    <rect class="shade" x="24" y="60" width="12" height="12"/>
+    <rect class="full" x="36" y="60" width="96" height="12"/>
+    <rect class="shade" x="168" y="60" width="12" height="12"/>
+    <rect class="full" x="180" y="60" width="24" height="12"/>
+    <rect class="shade" x="252" y="60" width="12" height="12"/>
+    <rect class="full" x="264" y="60" width="24" height="12"/>
+    <rect class="shade" x="300" y="60" width="12" height="12"/>
+    <rect class="full" x="312" y="60" width="24" height="12"/>
+    <rect class="shade" x="432" y="60" width="12" height="12"/>
+    <rect class="full" x="444" y="60" width="24" height="12"/>
+    <rect class="shade" x="516" y="60" width="12" height="12"/>
+    <rect class="full" x="528" y="60" width="24" height="12"/>
+    <rect class="shade" x="564" y="60" width="12" height="12"/>
+    <rect class="full" x="576" y="60" width="24" height="12"/>
+    <rect class="shade" x="600" y="60" width="12" height="12"/>
+    <rect class="full" x="612" y="60" width="24" height="12"/>
+    <rect class="shade" x="684" y="60" width="12" height="12"/>
+    <rect class="full" x="696" y="60" width="24" height="12"/>
+    <rect class="shade" x="732" y="60" width="12" height="12"/>
+    <rect class="full" x="744" y="60" width="24" height="12"/>
+    <rect class="shade" x="816" y="60" width="12" height="12"/>
+    <rect class="full" x="828" y="60" width="24" height="12"/>
+    <rect class="shade" x="24" y="72" width="12" height="12"/>
+    <rect class="full" x="36" y="72" width="24" height="12"/>
+    <rect class="shade" x="120" y="72" width="12" height="12"/>
+    <rect class="full" x="132" y="72" width="24" height="12"/>
+    <rect class="shade" x="168" y="72" width="12" height="12"/>
+    <rect class="full" x="180" y="72" width="24" height="12"/>
+    <rect class="shade" x="252" y="72" width="12" height="12"/>
+    <rect class="full" x="264" y="72" width="24" height="12"/>
+    <rect class="shade" x="312" y="72" width="12" height="12"/>
+    <rect class="full" x="324" y="72" width="84" height="12"/>
+    <rect class="shade" x="432" y="72" width="12" height="12"/>
+    <rect class="full" x="444" y="72" width="24" height="12"/>
+    <rect class="shade" x="564" y="72" width="12" height="12"/>
+    <rect class="full" x="576" y="72" width="24" height="12"/>
+    <rect class="shade" x="600" y="72" width="12" height="12"/>
+    <rect class="full" x="612" y="72" width="24" height="12"/>
+    <rect class="shade" x="684" y="72" width="12" height="12"/>
+    <rect class="full" x="696" y="72" width="24" height="12"/>
+    <rect class="shade" x="732" y="72" width="12" height="12"/>
+    <rect class="full" x="744" y="72" width="108" height="12"/>
+    <rect class="shade" x="24" y="84" width="12" height="12"/>
+    <rect class="full" x="36" y="84" width="24" height="12"/>
+    <rect class="shade" x="120" y="84" width="12" height="12"/>
+    <rect class="full" x="132" y="84" width="24" height="12"/>
+    <rect class="shade" x="168" y="84" width="12" height="12"/>
+    <rect class="full" x="180" y="84" width="24" height="12"/>
+    <rect class="shade" x="252" y="84" width="12" height="12"/>
+    <rect class="full" x="264" y="84" width="24" height="12"/>
+    <rect class="shade" x="384" y="84" width="12" height="12"/>
+    <rect class="full" x="396" y="84" width="24" height="12"/>
+    <rect class="shade" x="432" y="84" width="12" height="12"/>
+    <rect class="full" x="444" y="84" width="24" height="12"/>
+    <rect class="shade" x="516" y="84" width="12" height="12"/>
+    <rect class="full" x="528" y="84" width="24" height="12"/>
+    <rect class="shade" x="564" y="84" width="12" height="12"/>
+    <rect class="full" x="576" y="84" width="24" height="12"/>
+    <rect class="shade" x="600" y="84" width="12" height="12"/>
+    <rect class="full" x="612" y="84" width="24" height="12"/>
+    <rect class="shade" x="684" y="84" width="12" height="12"/>
+    <rect class="full" x="696" y="84" width="24" height="12"/>
+    <rect class="shade" x="732" y="84" width="12" height="12"/>
+    <rect class="full" x="744" y="84" width="24" height="12"/>
+    <rect class="shade" x="24" y="96" width="12" height="12"/>
+    <rect class="full" x="36" y="96" width="108" height="12"/>
+    <rect class="shade" x="180" y="96" width="12" height="12"/>
+    <rect class="full" x="192" y="96" width="84" height="12"/>
+    <rect class="shade" x="312" y="96" width="12" height="12"/>
+    <rect class="full" x="324" y="96" width="84" height="12"/>
+    <rect class="shade" x="444" y="96" width="12" height="12"/>
+    <rect class="full" x="456" y="96" width="84" height="12"/>
+    <rect class="shade" x="564" y="96" width="12" height="12"/>
+    <rect class="full" x="576" y="96" width="24" height="12"/>
+    <rect class="shade" x="600" y="96" width="12" height="12"/>
+    <rect class="full" x="612" y="96" width="24" height="12"/>
+    <rect class="shade" x="684" y="96" width="12" height="12"/>
+    <rect class="full" x="696" y="96" width="24" height="12"/>
+    <rect class="shade" x="744" y="96" width="12" height="12"/>
+    <rect class="full" x="756" y="96" width="84" height="12"/>
+  </g>
+  <g class="ink" dominant-baseline="central" xml:space="preserve">
+    <text x="102" y="168" textLength="528" lengthAdjust="spacingAndGlyphs">                         _,.-------------.._</text>
+    <text x="102" y="192" textLength="564" lengthAdjust="spacingAndGlyphs">                      ,-'        j          `-.</text>
+    <text x="102" y="216" textLength="600" lengthAdjust="spacingAndGlyphs">                    ,'        .-'               `.</text>
+    <text x="102" y="240" textLength="612" lengthAdjust="spacingAndGlyphs">                   /          |                   '</text>
+    <text x="102" y="264" textLength="624" lengthAdjust="spacingAndGlyphs">                  /         ,-'                    `</text>
+    <text x="102" y="288" textLength="648" lengthAdjust="spacingAndGlyphs">                 .         j                         \</text>
+    <text x="102" y="312" textLength="660" lengthAdjust="spacingAndGlyphs">                .          |                          \</text>
+    <text x="102" y="336" textLength="672" lengthAdjust="spacingAndGlyphs">                : ._       |   _....._                 .</text>
+    <text x="102" y="360" textLength="672" lengthAdjust="spacingAndGlyphs">                |   -.     L-''       `.               :</text>
+    <text x="102" y="384" textLength="672" lengthAdjust="spacingAndGlyphs">                | `.  \  .'             `.             |</text>
+    <text x="102" y="408" textLength="672" lengthAdjust="spacingAndGlyphs">               /.\  `, Y'                 :           ,|</text>
+    <text x="102" y="432" textLength="672" lengthAdjust="spacingAndGlyphs">              /.  :  | \                  |         ,' |</text>
+    <text x="102" y="456" textLength="672" lengthAdjust="spacingAndGlyphs">             \.    " :  `\                |      ,--   |</text>
+    <text x="102" y="480" textLength="672" lengthAdjust="spacingAndGlyphs">              \    .'     '-..___,..      |    _/      :</text>
+    <text x="102" y="504" textLength="672" lengthAdjust="spacingAndGlyphs">               \  `.      ___   ...._     '-../        '</text>
+    <text x="102" y="528" textLength="660" lengthAdjust="spacingAndGlyphs">             .-'    \    /| \_/ | | |      ,'         /</text>
+    <text x="102" y="552" textLength="648" lengthAdjust="spacingAndGlyphs">             |       `--' |    '' |'|     /         .'</text>
+    <text x="102" y="576" textLength="624" lengthAdjust="spacingAndGlyphs">             |            |      /. |    /       _,'</text>
+    <text x="102" y="600" textLength="576" lengthAdjust="spacingAndGlyphs">             |-.-.....__..|        `...:...--'''</text>
+    <text x="102" y="624" textLength="396" lengthAdjust="spacingAndGlyphs">             |_|_|_L.L.T._/     |</text>
+    <text x="102" y="648" textLength="396" lengthAdjust="spacingAndGlyphs">             \_|_|_L.T-''/      |</text>
+    <text x="102" y="672" textLength="384" lengthAdjust="spacingAndGlyphs">              |                /</text>
+    <text x="102" y="696" textLength="372" lengthAdjust="spacingAndGlyphs">             /             _.-'</text>
+    <text x="102" y="720" textLength="324" lengthAdjust="spacingAndGlyphs">             :         _..'</text>
+    <text x="102" y="744" textLength="276" lengthAdjust="spacingAndGlyphs">             \__...--''</text>
+  </g>
+</svg>
