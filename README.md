@@ -5,17 +5,13 @@
 <br>
 
 <p align="center">
-  <img src="portrait.svg" alt="ASCII Portrait — Boscine" width="360">
+  <img src="portrait.svg" width="360">
 </p>
 
 <br>
 
 
 ### 📊 Metrics
-
-<p align="center">
-  <img src="assets/heading-analytics.svg" width="600">
-</p>
 
 <p align="center">
   <img src="stats.svg" alt="Key Metrics" width="420">
