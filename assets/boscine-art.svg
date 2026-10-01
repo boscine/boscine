@@ -111,31 +111,4 @@
     <rect class="shade" x="744" y="72" width="12" height="12"/>
     <rect class="full" x="756" y="72" width="84" height="12"/>
   </g>
-  <g class="ink" dominant-baseline="central" xml:space="preserve">
-    <text x="102" y="144" textLength="528" lengthAdjust="spacingAndGlyphs">                         _,.-------------.._</text>
-    <text x="102" y="168" textLength="564" lengthAdjust="spacingAndGlyphs">                      ,-'        j          `-.</text>
-    <text x="102" y="192" textLength="600" lengthAdjust="spacingAndGlyphs">                    ,'        .-'               `.</text>
-    <text x="102" y="216" textLength="612" lengthAdjust="spacingAndGlyphs">                   /          |                   '</text>
-    <text x="102" y="240" textLength="624" lengthAdjust="spacingAndGlyphs">                  /         ,-'                    `</text>
-    <text x="102" y="264" textLength="648" lengthAdjust="spacingAndGlyphs">                 .         j                         \</text>
-    <text x="102" y="288" textLength="660" lengthAdjust="spacingAndGlyphs">                .          |                          \</text>
-    <text x="102" y="312" textLength="672" lengthAdjust="spacingAndGlyphs">                : ._       |   _....._                 .</text>
-    <text x="102" y="336" textLength="672" lengthAdjust="spacingAndGlyphs">                |   -.     L-''       `.               :</text>
-    <text x="102" y="360" textLength="672" lengthAdjust="spacingAndGlyphs">                | `.  \  .'             `.             |</text>
-    <text x="102" y="384" textLength="672" lengthAdjust="spacingAndGlyphs">               /.\  `, Y'                 :           ,|</text>
-    <text x="102" y="408" textLength="672" lengthAdjust="spacingAndGlyphs">              /.  :  | \                  |         ,' |</text>
-    <text x="102" y="432" textLength="672" lengthAdjust="spacingAndGlyphs">             \.    " :  `\                |      ,--   |</text>
-    <text x="102" y="456" textLength="672" lengthAdjust="spacingAndGlyphs">              \    .'     '-..___,..      |    _/      :</text>
-    <text x="102" y="480" textLength="672" lengthAdjust="spacingAndGlyphs">               \  `.      ___   ...._     '-../        '</text>
-    <text x="102" y="504" textLength="660" lengthAdjust="spacingAndGlyphs">             .-'    \    /| \_/ | | |      ,'         /</text>
-    <text x="102" y="528" textLength="648" lengthAdjust="spacingAndGlyphs">             |       `--' |    '' |'|     /         .'</text>
-    <text x="102" y="552" textLength="624" lengthAdjust="spacingAndGlyphs">             |            |      /. |    /       _,'</text>
-    <text x="102" y="576" textLength="576" lengthAdjust="spacingAndGlyphs">             |-.-.....__..|        `...:...--'''</text>
-    <text x="102" y="600" textLength="396" lengthAdjust="spacingAndGlyphs">             |_|_|_L.L.T._/     |</text>
-    <text x="102" y="624" textLength="396" lengthAdjust="spacingAndGlyphs">             \_|_|_L.T-''/      |</text>
-    <text x="102" y="648" textLength="384" lengthAdjust="spacingAndGlyphs">              |                /</text>
-    <text x="102" y="672" textLength="372" lengthAdjust="spacingAndGlyphs">             /             _.-'</text>
-    <text x="102" y="696" textLength="324" lengthAdjust="spacingAndGlyphs">             :         _..'</text>
-    <text x="102" y="720" textLength="276" lengthAdjust="spacingAndGlyphs">             \__...--''</text>
-  </g>
-</svg>
+ 
